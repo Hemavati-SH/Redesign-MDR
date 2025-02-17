@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-17T15:17:52 IST" name="Default suite" finished-at="2025-02-17T15:19:16 IST" duration-ms="83982">
+    <groups>
+    </groups>
+    <test started-at="2025-02-17T15:17:52 IST" name="Default test" finished-at="2025-02-17T15:19:16 IST" duration-ms="83982">
+      <class name="com.mdr.runner.RunCukesTest">
+        <test-method is-config="true" signature="setup(java.lang.String,org.testng.ITestContext)[pri:0, instance:com.mdr.runner.RunCukesTest@452e26d0]" started-at="2025-02-17T15:17:33 IST" name="setup" finished-at="2025-02-17T15:17:52 IST" duration-ms="18953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@5d800a56]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.mdr.runner.RunCukesTest@452e26d0]" started-at="2025-02-17T15:17:52 IST" name="setUpClass" finished-at="2025-02-17T15:17:52 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mdr.runner.RunCukesTest@452e26d0]" started-at="2025-02-17T15:17:52 IST" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2025-02-17T15:19:15 IST" duration-ms="82438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MDR Mobile Test Automation for Prenatal Care]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.mdr.runner.RunCukesTest@452e26d0]" started-at="2025-02-17T15:19:15 IST" name="tearDownClass" finished-at="2025-02-17T15:19:15 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mdr.runner.RunCukesTest@452e26d0]" started-at="2025-02-17T15:19:15 IST" name="tearDown" finished-at="2025-02-17T15:19:16 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="generateExtentReport()[pri:0, instance:com.mdr.runner.RunCukesTest@452e26d0]" started-at="2025-02-17T15:19:17 IST" name="generateExtentReport" finished-at="2025-02-17T15:19:17 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateExtentReport -->
+      </class> <!-- com.mdr.runner.RunCukesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

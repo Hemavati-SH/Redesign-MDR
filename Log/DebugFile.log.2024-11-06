@@ -1,0 +1,944 @@
+2024-11-06 15:12:09,687  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 15:12:09,697  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-11-06 15:12:09,697  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 15:12:09,701  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 15:12:09,701  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,702  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,702  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,702  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,702  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,702  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 15:12:09,703  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,703  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,705  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,705  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,706  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,706  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,708  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,708  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,710  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,710  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,710  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,710  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,711  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,712  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,712  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,712  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,712  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,713  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,713  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,714  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,714  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:12:09,714  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:12:09,717  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-136163762/testng-customsuite.xml
+
+2024-11-06 15:12:17,361  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-11-06 15:15:56,366  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 15:15:56,372  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 15:15:56,372  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 15:15:56,375  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 15:15:56,375  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,376  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,376  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,377  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,377  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,377  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 15:15:56,377  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,378  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,378  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,378  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,379  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,379  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,380  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,380  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,381  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,381  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,381  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,381  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,382  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,382  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,383  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,383  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,383  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,383  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,384  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,384  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,384  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 15:15:56,384  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 15:15:56,387  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--1785936118/testng-customsuite.xml
+
+2024-11-06 15:16:03,904  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-11-06 15:16:45,370  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@184823ed: 46 ms
+2024-11-06 15:16:45,371  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@30bbcf91: 1 ms
+2024-11-06 15:16:45,384  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@38588dea: 13 ms
+2024-11-06 15:16:45,392  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@608cd501: 8 ms
+2024-11-06 15:16:45,399  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c46c9c3: 7 ms
+2024-11-06 15:16:45,399  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7197b07f: 0 ms
+2024-11-06 17:55:04,259  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-11-06 17:55:04,265  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 17:55:04,266  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 17:55:04,269  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 17:55:04,269  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,269  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,270  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,271  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,271  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,271  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 17:55:04,272  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,272  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,272  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,273  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,273  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,273  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,274  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,274  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,276  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,276  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,276  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,276  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,278  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,278  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,278  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,278  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,279  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,279  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,280  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,280  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,280  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 17:55:04,280  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 17:55:04,283  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--1964513582/testng-customsuite.xml
+
+2024-11-06 17:55:23,826  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-11-06 17:56:06,957  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@3b97907c: 52 ms
+2024-11-06 17:56:06,958  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@59096b66: 1 ms
+2024-11-06 17:56:06,966  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@36359723: 8 ms
+2024-11-06 17:56:06,972  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3daf03d8: 6 ms
+2024-11-06 17:56:06,982  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a70d302: 10 ms
+2024-11-06 17:56:06,982  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7fd99443: 0 ms
+2024-11-06 19:08:13,617  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 19:08:13,626  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-11-06 19:08:13,626  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:08:13,631  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 19:08:13,631  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,632  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,632  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,632  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,633  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,633  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:08:13,634  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,634  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,635  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,635  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,636  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,636  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,637  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,637  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,638  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,638  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,638  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,638  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,641  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,641  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,641  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,641  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,642  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,642  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,643  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,643  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,643  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:08:13,643  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:08:13,647  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-319618568/testng-customsuite.xml
+
+2024-11-06 19:08:32,819  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-11-06 19:08:32,943 ERROR (org.testng.internal.Utils:error -(Line Number-154)) - [Error] java.lang.NullPointerException
+	at com.mdr.runner.RunCukesTest.features(RunCukesTest.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2024-11-06 19:08:33,571  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@3f985a86: 26 ms
+2024-11-06 19:08:33,576  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@aa149ed: 5 ms
+2024-11-06 19:08:33,583  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@1dc76fa1: 7 ms
+2024-11-06 19:08:33,591  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5524b72f: 8 ms
+2024-11-06 19:08:33,601  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@40e60ece: 10 ms
+2024-11-06 19:08:33,602  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f9270ed: 1 ms
+2024-11-06 19:12:58,185  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-11-06 19:12:58,191  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 19:12:58,191  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:12:58,197  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-06 19:12:58,197  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,197  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,198  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,199  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,199  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,199  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:12:58,199  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,200  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,200  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,201  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,201  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,201  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,202  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,202  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,203  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,203  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,203  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,203  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,205  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,205  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,205  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,205  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,206  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,206  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,207  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,207  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,207  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:12:58,207  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:12:58,211  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-693608179/testng-customsuite.xml
+
+2024-11-06 19:13:15,454  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-11-06 19:13:57,734  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@38fb50f8: 44 ms
+2024-11-06 19:13:57,734  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ab802f4: 0 ms
+2024-11-06 19:13:57,741  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@20d19f2c: 6 ms
+2024-11-06 19:13:57,747  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6401188a: 5 ms
+2024-11-06 19:13:57,752  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@644a3add: 5 ms
+2024-11-06 19:13:57,752  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4b765e92: 0 ms
+2024-11-06 19:47:13,217  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 19:47:13,227  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-11-06 19:47:13,227  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:47:13,232  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-06 19:47:13,233  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,233  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,234  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,235  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,235  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,235  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:47:13,236  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,236  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,237  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,237  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,238  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,238  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,239  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,239  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,240  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,240  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,240  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,240  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,241  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,242  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,242  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,242  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,243  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,243  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,244  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,244  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,244  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:47:13,245  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:47:13,248  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--1200768999/testng-customsuite.xml
+
+2024-11-06 19:47:32,350  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-11-06 19:54:28,143  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 19:54:28,148  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 19:54:28,148  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:54:28,152  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 19:54:28,152  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,153  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,153  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,153  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,153  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,153  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:54:28,154  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,154  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,155  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,155  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,156  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,156  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,157  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,157  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,158  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,158  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,158  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,158  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,159  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,160  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,160  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,160  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,160  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,160  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,161  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,161  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,161  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:54:28,161  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:54:28,164  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--1481839844/testng-customsuite.xml
+
+2024-11-06 19:54:35,381  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-11-06 19:58:46,354  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-11-06 19:58:46,360  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 19:58:46,360  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:58:46,364  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 19:58:46,364  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,365  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,365  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,365  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,365  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,365  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 19:58:46,366  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,366  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,367  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,367  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,368  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,368  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,369  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,369  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,370  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,370  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,371  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,371  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,373  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,373  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,373  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,373  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,374  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,374  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,374  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,374  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,375  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 19:58:46,375  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 19:58:46,378  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-1368535418/testng-customsuite.xml
+
+2024-11-06 19:58:53,680  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-11-06 20:05:00,904  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-06 20:05:00,911  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 20:05:00,911  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:05:00,914  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 20:05:00,915  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,915  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,915  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,916  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,916  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,916  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:05:00,917  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,918  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,918  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,918  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,919  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,919  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,920  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,920  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,921  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,921  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,922  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,922  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,923  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,923  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,923  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,923  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,924  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,924  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,925  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,925  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,925  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:05:00,925  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:05:00,929  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--262261928/testng-customsuite.xml
+
+2024-11-06 20:05:20,642  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-11-06 20:09:09,171  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 20:09:09,177  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 20:09:09,177  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:09:09,182  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 20:09:09,182  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,182  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,183  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,183  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,183  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,183  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:09:09,184  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,184  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,185  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,185  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,186  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,186  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,186  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,187  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,187  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,187  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,188  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,188  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,189  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,189  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,189  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,189  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,190  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,190  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,190  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,191  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,191  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:09:09,191  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:09:09,194  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-251714985/testng-customsuite.xml
+
+2024-11-06 20:09:16,266  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-11-06 20:11:44,617  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-06 20:11:44,623  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 20:11:44,623  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:11:44,627  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-11-06 20:11:44,628  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,628  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,628  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,629  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,629  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,629  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:11:44,630  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,630  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,631  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,631  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,632  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,632  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,633  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,633  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,634  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,634  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,634  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,634  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,635  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,636  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,636  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,636  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,636  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,636  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,637  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,637  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,637  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:11:44,637  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:11:44,640  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--1703011930/testng-customsuite.xml
+
+2024-11-06 20:11:51,618  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2024-11-06 20:49:18,688  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-06 20:49:18,695  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 20:49:18,695  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:49:18,698  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 20:49:18,698  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,699  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,699  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,699  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,700  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,700  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:49:18,700  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,701  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,701  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,701  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,702  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,702  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,703  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,703  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,704  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,704  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,704  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,704  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,705  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,705  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,705  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,706  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,706  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,706  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,707  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,707  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,707  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:18,707  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:18,710  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-10435494/testng-customsuite.xml
+
+2024-11-06 20:49:48,481  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-06 20:49:48,487  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 20:49:48,487  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:49:48,491  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-11-06 20:49:48,492  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,492  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,492  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,493  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,493  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,493  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:49:48,494  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,494  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,495  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,495  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,497  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,497  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,497  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,498  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,499  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,499  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,499  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,499  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,500  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,501  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,501  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,501  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,501  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,501  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,502  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,502  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,502  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:49:48,503  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:49:48,507  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-337887457/testng-customsuite.xml
+
+2024-11-06 20:49:58,855  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-11-06 20:49:59,077  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@15dc339f: 28 ms
+2024-11-06 20:49:59,091  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@474c9131: 14 ms
+2024-11-06 20:49:59,097  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@49fe3142: 5 ms
+2024-11-06 20:49:59,101  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2042ccce: 4 ms
+2024-11-06 20:49:59,106  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1866da85: 5 ms
+2024-11-06 20:49:59,106  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4cfa8227: 0 ms
+2024-11-06 20:50:19,635  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-06 20:50:19,640  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-11-06 20:50:19,640  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:50:19,643  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 20:50:19,643  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,644  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,644  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,644  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,644  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,644  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:50:19,645  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,645  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,646  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,646  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,646  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,647  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,647  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,647  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,648  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,648  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,649  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,649  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,650  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,650  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,650  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,650  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,650  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,651  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,651  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,652  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,652  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:50:19,652  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:50:19,655  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--500434424/testng-customsuite.xml
+
+2024-11-06 20:50:27,954  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-11-06 20:56:31,792  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 20:56:31,800  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 20:56:31,801  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:56:31,804  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 20:56:31,804  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,805  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,805  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,805  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,806  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,806  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 20:56:31,806  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,807  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,807  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,807  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,808  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,808  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,809  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,809  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,810  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,810  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,810  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,810  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,811  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,811  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,811  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,811  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,812  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,812  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,813  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,813  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,813  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 20:56:31,813  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 20:56:31,816  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--1236558117/testng-customsuite.xml
+
+2024-11-06 20:56:39,198  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-11-06 21:12:11,956  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:12:11,962  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 21:12:11,963  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:12:11,966  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:12:11,966  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,966  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,966  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,967  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,967  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,967  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:12:11,968  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,968  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,969  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,969  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,969  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,969  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,970  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,970  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,971  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,971  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,972  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,972  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,974  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,974  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,974  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,975  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,975  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:12:11,975  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:12:11,978  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--960340176/testng-customsuite.xml
+
+2024-11-06 21:12:30,898  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-11-06 21:20:43,441  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:20:43,446  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 21:20:43,447  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:20:43,450  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:20:43,450  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,450  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,451  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,451  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,451  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,451  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:20:43,452  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,452  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,453  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,453  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,454  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,454  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,454  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,455  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,455  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,455  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,456  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,456  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,457  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,457  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,457  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,457  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,458  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,458  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,458  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,458  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,459  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:20:43,459  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:20:43,462  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-795989292/testng-customsuite.xml
+
+2024-11-06 21:20:50,693  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-11-06 21:23:59,272  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:23:59,280  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 21:23:59,280  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:23:59,284  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:23:59,284  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,284  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,285  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,285  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,285  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,285  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:23:59,286  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,286  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,287  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,287  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,287  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,287  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,288  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,289  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,289  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,289  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,290  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,290  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,291  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,291  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,291  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,291  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,291  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,291  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,292  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,292  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,292  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:23:59,292  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:23:59,296  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--637910207/testng-customsuite.xml
+
+2024-11-06 21:24:06,275  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-11-06 21:24:06,399 ERROR (org.testng.internal.Utils:error -(Line Number-154)) - [Error] java.lang.NullPointerException
+	at com.mdr.runner.RunCukesTest.features(RunCukesTest.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2024-11-06 21:24:06,946  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@4afd21c6: 70 ms
+2024-11-06 21:24:06,963  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@1c5c616f: 16 ms
+2024-11-06 21:24:06,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@16a49a5d: 9 ms
+2024-11-06 21:24:06,979  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@37303f12: 6 ms
+2024-11-06 21:24:06,999  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3db663d0: 19 ms
+2024-11-06 21:24:06,999  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73fc518f: 0 ms
+2024-11-06 21:24:21,385  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-06 21:24:21,390  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 21:24:21,391  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:24:21,396  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:24:21,396  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,396  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,396  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,397  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,397  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,397  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:24:21,398  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,398  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,399  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,399  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,399  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,400  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,400  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,400  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,401  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,401  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,402  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,402  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,403  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,403  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,403  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,403  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,404  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,404  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,404  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,404  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,405  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:24:21,405  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:24:21,408  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-1592325925/testng-customsuite.xml
+
+2024-11-06 21:24:38,396  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-11-06 21:24:38,531 ERROR (org.testng.internal.Utils:error -(Line Number-154)) - [Error] java.lang.NullPointerException
+	at com.mdr.runner.RunCukesTest.features(RunCukesTest.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2024-11-06 21:24:38,997  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@7bca6fac: 42 ms
+2024-11-06 21:24:39,003  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@33d53216: 6 ms
+2024-11-06 21:24:39,007  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@497aec8c: 4 ms
+2024-11-06 21:24:39,012  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4248b963: 5 ms
+2024-11-06 21:24:39,024  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5fbdc49b: 12 ms
+2024-11-06 21:24:39,025  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@65753040: 0 ms
+2024-11-06 21:26:05,674  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-06 21:26:05,679  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 21:26:05,680  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:26:05,683  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:26:05,683  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,683  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,684  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,684  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,684  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,685  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:26:05,685  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,685  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,686  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,687  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,687  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,687  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,688  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,688  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,689  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,689  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,690  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,690  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,691  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,691  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,691  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,691  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,692  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,692  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,693  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,693  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,693  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:05,693  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:05,696  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-1137285113/testng-customsuite.xml
+
+2024-11-06 21:26:16,005  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2024-11-06 21:26:16,191  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.jq.Main@66420549: 19 ms
+2024-11-06 21:26:16,199  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.FailedReporter@1835d3ed: 8 ms
+2024-11-06 21:26:16,203  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.XMLReporter@381d7219: 4 ms
+2024-11-06 21:26:16,207  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a2843ec: 4 ms
+2024-11-06 21:26:16,212  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@71b6d77f: 5 ms
+2024-11-06 21:26:16,212  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1866da85: 0 ms
+2024-11-06 21:26:27,959  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-06 21:26:27,965  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 21:26:27,966  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:26:27,969  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:26:27,969  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,970  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,970  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,970  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,970  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,970  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:26:27,971  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,971  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,972  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,972  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,972  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,973  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,974  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,974  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,974  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,975  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,976  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,976  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,976  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,976  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,977  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,977  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,978  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,978  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,978  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:26:27,978  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:26:27,981  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse--1306793142/testng-customsuite.xml
+
+2024-11-06 21:26:45,073  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-11-06 21:29:21,077  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:29:21,083  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-11-06 21:29:21,083  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:29:21,086  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-06 21:29:21,086  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,087  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,087  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,087  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,088  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,088  WARN (org.testng.internal.Configuration:warn -(Line Number-133)) - Detected a static method [com.mdr.base.BaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+2024-11-06 21:29:21,088  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,089  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,089  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,089  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,090  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,090  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,091  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,091  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,092  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,092  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,092  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,092  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,094  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,094  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,094  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,094  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,095  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,095  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,095  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,096  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,096  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-06 21:29:21,096  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-06 21:29:21,099  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [TestNG] Running:
+  /private/var/folders/40/b0g42ts55q96_z11gw12h9p00000gn/T/testng-eclipse-182447256/testng-customsuite.xml
+
+2024-11-06 21:29:28,213  INFO (org.testng.internal.Utils:info -(Line Number-112)) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.

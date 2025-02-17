@@ -1,0 +1,38 @@
+{
+	"platforms": [
+		{
+			"ios": {
+				"platformName":"ios",
+				"app": "/Applications/MyDigiRecords",
+				"platformVersion": "17.7",
+				"deviceName": "iPhone 11",
+				"udid": "00008030-001A690922D1802E",
+				"udid_simulator": "",
+				"automationName": "XCUITest",
+				"xcodeOrgId": "",
+				"xcodeSigningId": "iPhone Developer",
+				"bundleId": "",
+				"resetOnSessionStartOnly": "false",
+				"useNewWDA": "true",
+				"updatedWDABundleId": "true"
+			}
+		},
+		{
+			"android": {
+				"app": "/Users/Prati/Downloads/app-release.apk",
+				"platformName":"Android",
+				"platformVersion":"14",
+				"udid":"emulator-5554",
+				"deviceName":"Pixel 6 Pro API 34",
+               "appPackage":"com.mydigirecords",
+               "appActivity":".MainActivity",
+				"automationName":"uiautomator2",
+				"fullReset":"false",
+				"noReset":"true"
+				
+		}
+		
+			
+		}
+	]
+}
